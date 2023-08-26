@@ -1,5 +1,7 @@
 <h1>College Event Page </h1>
 
+<p align="justify">Developed a website to know the details of college events and implemented a responsive user interface using JavaScript
+providing an intuitive experience for both desktop and mobile users.</p>
 <p align="justify">College Event Page is a web platform that a user can know all the details about college events and where a user can get the
 contact details of college in contact page.</p> 
 
