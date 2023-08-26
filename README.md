@@ -11,8 +11,9 @@ contact details of college in contact page.</p>
 <ul>
 <li>User Can get the contact details of the college to know about events.</li>
 <br/>
-<li>User can know different types of events of college.</li>
+<li>User can buy the tickets for each event.</li>
 <br/>
+<li>User Can send the message to the event team.</li>
 </ul>
 
 <h2>🏄 How to run the project :</h2>
@@ -25,7 +26,7 @@ contact details of college in contact page.</p>
     </ul>
   2. Setting Up
     <ul>
-    <li> Clone the project from github repo </li>
+    <li> Clone the project from GitHub repo </li>
     <li> Run the code through "Live Server"</li>
     <li> It will run on http://localhost:3000</li>
     </ul>
